@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning natural language processing.
 - 💞️ I’m looking to collaborate on data science.
 - :scroll: To view my online resume, please check https://www.linkedin.com/in/zeyong-jin-7b429b184/.
-- 📫 For more information, please check https://www.zeyongjin.net. 
+- :earth_americas: For more information, please check https://www.zeyongjin.net. 
 - :email: To contact me, please send an email to zeyongj@gmail.com.
 
 <!---
