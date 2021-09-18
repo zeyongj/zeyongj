@@ -1,4 +1,4 @@
-# Personal Information
+## Personal Information
 - 👋 Hi, I am Zeyong Jin. Call me Leo if you want.
 - :house: I am currently living in Vancouver, BC, Canada.
 - :school: I will get a B.Sci., Major in Computing Sciences, Concentration on Information Systems, Minor in Mathematics, Simon Fraser University, Canada, 2022.
@@ -14,7 +14,7 @@ zeyongj/zeyongj is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Github Statistics
+## Github Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyongj&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
