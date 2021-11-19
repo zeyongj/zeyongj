@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeyongj&row=2&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=zeyongj&row=2&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeyongj)](https://github.com/ryo-ma/github-profile-trophy)
 
