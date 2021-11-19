@@ -25,3 +25,13 @@ You can click the Preview link to take a look at your changes.
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeyongj)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Social Media
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zeyongj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeyong-jin-7b429b184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zeyongjin/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100016886407985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
+
+
