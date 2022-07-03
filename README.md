@@ -2,7 +2,7 @@
 - 👋 Hi, I am Zeyong Jin. Call me Leo if you want.
 - :house: I am currently living in Vancouver, BC, Canada.
 - :school: I received a Bachelor of Science (with Distinction), Major in Computing Sciences, Concentration in Information Systems, Minor in Mathematics, [Simon Fraser University](https://www.sfu.ca/), Canada, 2022.
-- :professor: I served as a teaching assistant at [Department of Statistics and Actuarial Science of SFU](https://www.sfu.ca/stat-actsci.html) in the semester of 2021 Spring. I also served as a teaching assistant at [School of Computing Science of SFU](https://www.sfu.ca/computing.html) in the semester of 2021 Fall. 
+- :teacher: I served as a teaching assistant at [Department of Statistics and Actuarial Science of SFU](https://www.sfu.ca/stat-actsci.html) in the semester of 2021 Spring. I also served as a teaching assistant at [School of Computing Science of SFU](https://www.sfu.ca/computing.html) in the semester of 2021 Fall. 
 - 👀 I’m interested in computer science and mathematics.
 - 🌱 I’m currently learning natural language processing.
 - 💞️ I’m looking to collaborate on data science.
