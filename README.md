@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on data science.
 - :scroll: To view my online resume, please check [my LinkedIn page](https://www.linkedin.com/in/zeyong-jin-7b429b184/).
 - :earth_americas: For more information, please check [my website](https://www.zeyongjin.net). 
-- :email: To contact me, please send an email to zeyongj@gmail.com.
+- :email: To contact me, please send an email to [my Gmail address](zeyongj@gmail.com).
 
 <!---
 zeyongj/zeyongj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
