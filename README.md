@@ -1,7 +1,7 @@
 ## Personal Information
 - 👋 Hi, I am Zeyong Jin. Call me Leo if you want.
 - :house: I am currently living in Vancouver, BC, Canada.
-- :school: I will get a B.Sci., Major in Computing Sciences, Concentration on Information Systems, Minor in Mathematics, Simon Fraser University, Canada, 2022.
+- :school: I received a Bachelor of Science (with Distinction), Major in Computing Sciences, Concentration in Information Systems, Minor in Mathematics, Simon Fraser University, Canada, 2022.
 - 👀 I’m interested in computer science and mathematics.
 - 🌱 I’m currently learning natural language processing.
 - 💞️ I’m looking to collaborate on data science.
