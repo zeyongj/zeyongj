@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyongj&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=false&number_format=long" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyongj&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&number_format=long" />
 </a>
 
 ## Frequently Used Languages
