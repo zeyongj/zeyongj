@@ -1,14 +1,15 @@
 ## Personal Information
-- 👋 Hi, I am Zeyong Jin. Call me Leo if you want.
-- :house: I am currently living in Vancouver, BC, Canada.
-- :school: I received the degree of Bachelor of Science (with Distinction), Major in Computing Sciences, Concentration in Information Systems, Minor in Mathematics from [Simon Fraser University](https://www.sfu.ca/) in Canada, 2022.
-- :man_teacher: I served as a teaching assistant at [Department of Statistics and Actuarial Science of SFU](https://www.sfu.ca/stat-actsci.html) in the semester of 2021 Spring. I also served as a teaching assistant at [School of Computing Science of SFU](https://www.sfu.ca/computing.html) in the semester of 2021 Fall. 
-- 👀 I’m interested in computer science and mathematics.
-- 🌱 I’m currently learning natural language processing.
-- 💞️ I’m looking to collaborate on data science.
-- :scroll: To view my online resume, please check [my LinkedIn page](https://www.linkedin.com/in/zeyong-jin-7b429b184/).
-- :earth_americas: For more information, please check [my website](https://www.zeyongjin.net). 
-- :email: To contact me, please send an email to zeyongj@gmail.com.
+
+- 👋 Hello, I am Zeyong Jin. You may address me as Leo.
+- :house: I am currently residing in Vancouver, BC, Canada.
+- :school: I graduated with a Bachelor of Science (with Distinction), majoring in Computing Science with a concentration in Information Systems and minoring in Mathematics, from [Simon Fraser University](https://www.sfu.ca/) in 2022.
+- :man_teacher: I served as a teaching assistant at the [Department of Statistics and Actuarial Science](https://www.sfu.ca/stat-actsci.html) during the Spring 2021 semester, and at the [School of Computing Science](https://www.sfu.ca/computing.html) during the Fall 2021 semester.
+- 👀 I am deeply interested in computer science and mathematics.
+- 🌱 I am currently expanding my knowledge in natural language processing.
+- 💞️ I am seeking collaboration opportunities in data science.
+- :scroll: To view my online resume, please visit [my LinkedIn page](https://www.linkedin.com/in/zeyong-jin-7b429b184/).
+- :earth_americas: For more information, please visit [my website](https://www.zeyongjin.net).
+- :email: To contact me, please email me at zeyongj@gmail.com.
 
 <!---
 zeyongj/zeyongj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
