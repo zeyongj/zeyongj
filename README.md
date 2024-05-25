@@ -4,7 +4,7 @@
 - :house: I am currently residing in Vancouver, BC, Canada.
 - :school: I graduated with a Bachelor of Science (with Distinction), majoring in Computing Science with a concentration in Information Systems and minoring in Mathematics, from [Simon Fraser University](https://www.sfu.ca/) in 2022.
 - :man_teacher: I served as a teaching assistant at the [Department of Statistics and Actuarial Science](https://www.sfu.ca/stat-actsci.html) during the Spring 2021 semester, and at the [School of Computing Science](https://www.sfu.ca/computing.html) during the Fall 2021 semester.
-- 👀 I am deeply interested in machine learning approaches and mathematics.
+- 👀 I have a profound interest in machine learning methodologies and mathematics.
 - 🌱 I am currently expanding my knowledge in natural language processing.
 - 💞️ I am seeking collaboration opportunities in data science.
 - :scroll: To view my online resume, please visit [my LinkedIn page](https://www.linkedin.com/in/zeyong-jin-7b429b184/).
