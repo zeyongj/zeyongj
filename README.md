@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Statistics
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zeyongj)](https://github.com/stats-organization/github-stats-extended)
 
-## Frequently Used Languages
+## Most Used Languages
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zeyongj&layout=compact&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=zeyongj&layout=compact&langs_count=10)
 
 ## GitHub Trophies
