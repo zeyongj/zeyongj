@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zeyongj)](https://github.com/stats-organization/github-stats-extended)
 
 ## Frequently Used Languages
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyongj&langs_count=10&count_private=true&layout=compact&hide_title=true&hide_border=true" />
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zeyongj&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=zeyongj&langs_count=10)
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=zeyongj)](https://github.com/ryo-ma/github-profile-trophy)
