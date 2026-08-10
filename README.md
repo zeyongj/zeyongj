@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=zeyongj&layout=compact&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=zeyongj&layout=compact&langs_count=10)
 
 ## GitHub Trophies
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=zeyongj)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=zeyongj)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Social Media
